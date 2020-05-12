@@ -23,7 +23,7 @@
             <p><h1>Chegou o MOB FILMES</h1></p>
         <p><span class="ui text grey" style="font-size: larger;">Assistir filmes online dublados ficou ainda mais fácil agora.</span></p>
         <br>
-        <p><span class="ui text grey" style="font-size: larger;">O nosso aplicativo MOB FILMES é Grátis, sem propagandas e tem uma lista ótima
+        <p><span class="ui text grey" style="font-size: larger;">Essse é nosso aplicativo MOB FILMES, sem propagandas e tem uma lista ótima
              e sempre atualizada para você não perder nada do que rola no momento no cinema mundial.</span></p>
         <br>
         <p><span class="ui text grey" style="font-size: larger;">MOB FILMES é um dos melhores apps de Incorporação de Vídeo da América Latina.</span></p>
