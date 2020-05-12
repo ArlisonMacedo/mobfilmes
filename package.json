@@ -1,0 +1,23 @@
+{
+  "name": "mobfilmes",
+  "version": "1.0.0",
+  "description": "\"# mobfilmes\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArlisonMacedo/mobfilmes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArlisonMacedo/mobfilmes/issues"
+  },
+  "homepage": "https://github.com/ArlisonMacedo/mobfilmes#readme",
+  "dependencies": {
+    "fomantic-ui": "^2.8.4"
+  }
+}
