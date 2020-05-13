@@ -11,7 +11,7 @@
     <title>MOB-FILMES</title>
 </head>
 
-<body style="background-color: #f7f7f7;">
+<body style="background-color: #303f9fff;">
     
     <center>
         <img src="./img/LOGO MOB FILMES.png" alt="Logo" class="ui medium image">
